@@ -1,0 +1,139 @@
+#nav_title{
+	width: 100%;
+	height: 10.5%;
+	position: absolute;
+	background-color:#003285;
+	text-align: left;
+	text-color:white;
+}
+#nav_head_frame {
+	width: 25%;
+	height: 78%;
+	padding: 2%;
+
+	position: absolute;
+	left: 2%;
+	top: 12%;
+	background-color: rgba(255, 255, 255, 20);
+
+	border-radius: 10px;
+	text-align: center;
+}
+#nav_app_frame {
+	width: 65%;
+	height: 40%;
+	padding: 1%;
+	position: absolute;
+	left: 32%;
+	top: 12%;
+	background-color: rgba(255, 255, 255, 20);
+	border-radius: 10px;
+}#nav_list_frame {
+	 width: 65%;
+	 height: 35.5%;
+	 padding: 1%;
+
+	 position: absolute;
+	 left: 32%;
+	 top: 56%;
+
+	 background-color: rgba(255, 255, 255, 20);
+
+	 border-radius: 10px;
+	 text-align: center;
+ }
+
+.head_title{
+	font-size: 20px;
+	font-family: 楷体;
+	text-align: right;
+	color: white;
+}
+.head_logo1{
+	width:5.2%;
+	height:auto;
+	position:absolute;
+	left:0%;
+	top:5%;
+
+	margin-left:10px;
+}
+.head_logo2{
+	height:120%;
+	width:auto;
+	position:absolute;
+	left:5%;
+	top:0%;
+	margin-top: -10px;
+	margin-left:10px;
+}
+#nav_head{
+	border-radius: 50px;
+	width:5%;
+	height:auto;
+	position:absolute;
+	right:13%;
+	top:5%
+}
+#nav_head2{
+	border-radius: 30px;
+	width:50%;
+	height:auto;
+}
+p{
+	line-height:10px
+}
+
+.app{
+	border-collapse: collapse;
+}
+
+.app th{
+	width:20%;
+	padding:0px;
+
+}
+.app td{
+	width:20%;
+	padding:0px;
+
+}
+
+.student_name{
+	font-size: 25px;
+	font-family: 黑体;
+	text-align: center;
+	color: black;
+}
+.student_name2{
+	font-size: 25px;
+	font-family: 宋体;
+	text-align: right;
+	color:#b7b6b6;
+
+}
+.exit{
+	font-size: 180%;
+	font-family: 宋体;
+	text-align: right;
+	color:#b7b6b6;
+	position:absolute;
+	top:40%;
+	right:4%;
+
+
+}
+.student_class{
+	font-size: 15px;
+	font-family: songti;
+	text-align: center;
+	color:#808080;
+}
+.news_title{
+	font-size: 28px;
+	font-family: 宋体;
+	text-align: left;
+	color:black;
+
+}
+

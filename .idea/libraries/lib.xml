@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-jdbc-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-websocket-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-aspects-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-test-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-webmvc-portlet-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/mysql-connector-j-8.0.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-messaging-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-instrument-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-jms-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-orm-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-oxm-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-core-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-beans-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-tx-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-aop-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-expression-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-context-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-context-support-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-web-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-webmvc-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/commons-dbcp2-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/cardsManage_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

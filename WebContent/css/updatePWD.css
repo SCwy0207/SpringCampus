@@ -1,0 +1,72 @@
+body {
+		background: url(../img/bg1.jpg) no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		overflow-x: hidden; /* 隐藏滚动条 */
+		overflow-y: hidden; /* 隐藏滚动条 */
+}
+form p > * {
+			    display: inline-block;
+			    vertical-align: middle;
+	}
+#login_frame {
+			    width: 400px;
+			    height: 430px;
+			    padding: 13px;
+			    position: fixed;
+			    left: 50%;
+			    top: 50%;
+			    transform: translate(-50%, -50%);
+			    background-color: rgba(240, 255, 255, 0.5);
+			    border-radius: 10px;
+			    text-align: center;
+	}			 
+#image_logo {
+				width: 100px;
+				height: auto;
+				position: absolute;
+				left: 0%;
+				top: 0%;
+			}
+			 
+.label_title {
+			    font-size: 38px;
+			    font-family: 黑体;
+			    text-align: center;
+			    color: #FFFFFF;
+				line-height:210%;
+			}
+.label_input {
+			    font-size: 20px;
+			    font-family: 黑体;
+			    text-align: left;
+			    color: white;
+				line-height:20%;
+			}
+			 
+.text_field {
+			    width: 380px;
+			    height: 34px;
+				border-top-left-radius: 5px;
+				border-bottom-left-radius: 5px;
+			    border-top-right-radius: 5px;
+			    border-bottom-right-radius: 5px;
+			    border: 0;
+			}
+			 
+#btn_rpassword {
+			    font-size: 20px;
+			    font-family: 宋体;
+			 
+			    width: 180px;
+			    height: 38px;
+			    line-height: 30px;
+			    text-align: center;
+				position:center;
+			    color: white;
+			    background-color: #458B00;
+			    border-radius: 6px;
+			    border: 0;
+			} 
